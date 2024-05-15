@@ -6,6 +6,12 @@ Welcome to the Recipe Finder project! 🍽️
 
 We are a group of three passionate developers working on this project. Our goal is to create a user-friendly web application that allows users to discover and explore various recipes. Whether you're a seasoned chef or a beginner in the kitchen, Recipe Finder has something for everyone!
 
+## Group Members
+
+1. **Harshit Singla**
+2. **Harshita Sharma**
+3. **Harshita Lamba**
+
 ## Table of Contents
 
 1. <span style="font-size: 18px;">Versions</span>
