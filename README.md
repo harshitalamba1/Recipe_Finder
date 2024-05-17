@@ -12,7 +12,7 @@ We are a group of three passionate developers working on this project. Our goal 
 2. **Harshita Sharma**
 3. **Harshita Lamba**
 
-## Table of Contents
+## Table of Contents:
 
 1. <span style="font-size: 18px;">Versions</span>
 2. <span style="font-size: 18px;">Features</span>
@@ -21,7 +21,7 @@ We are a group of three passionate developers working on this project. Our goal 
 5. <span style="font-size: 18px;">Contributing</span>
 6. <span style="font-size: 18px;">License</span>
 
-## Versions
+## Versions-
 
 ### Version 1: Basic HTML and CSS
 
@@ -48,7 +48,7 @@ Our latest version introduces dynamic features using JavaScript:
 - Filter recipes based on criteria (e.g., cuisine type, dietary preferences)
 - Improved interactivity and responsiveness
 
-## Installation
+## Installation:
 
 To run Recipe Finder locally, follow these steps:
 
@@ -56,17 +56,17 @@ To run Recipe Finder locally, follow these steps:
 2. Open the project folder in your preferred code editor.
 3. Launch the `index.html` file in your web browser.
 
-## Usage
+## Usage:
 
 1. Browse through the recipe cards on the landing page.
 2. Use the navigation bar to explore different categories.
 3. Search for specific dishes using the search bar.
 4. Enjoy discovering new recipes!
 
-## Contributing
+## Contributing:
 
 We welcome contributions! If you'd like to improve Recipe Finder, feel free to submit pull requests or open issues.
 
-## License
+## License:
 
 Recipe Finder is released under the MIT License.
