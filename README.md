@@ -66,7 +66,12 @@ To run Recipe Finder locally, follow these steps:
 ## Contributing:
 
 We welcome contributions! If you'd like to improve Recipe Finder, feel free to submit pull requests or open issues.
-
+1. Fork the repository.
+2. Create your feature branch (git checkout -b feature/YourFeature).
+3. Commit your changes (git commit -m 'Add some feature').
+4. Push to the branch (git push origin feature/YourFeature).
+5. Open a pull request.
+   
 ## License:
 
 Recipe Finder is released under the MIT License.
