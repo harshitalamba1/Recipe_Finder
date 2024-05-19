@@ -71,6 +71,13 @@ We welcome contributions! If you'd like to improve Recipe Finder, feel free to s
 3. Commit your changes (git commit -m 'Add some feature').
 4. Push to the branch (git push origin feature/YourFeature).
 5. Open a pull request.
+
+## Future Plans:
+1. User Accounts: Allow users to create accounts, save favorite recipes, and submit their own recipes.
+2. Advanced Filtering: Add more filtering options, such as cooking time, difficulty level, and seasonal recipes.
+3. Meal Planning: Introduce meal planning features where users can create weekly meal plans and generate shopping lists.
+4. Integration with APIs: Integrate with popular recipe APIs to fetch the latest recipes and trends.
+5. Social Sharing: Enable users to share their favorite recipes on social media platforms.
    
 ## License:
 
